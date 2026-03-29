@@ -1,0 +1,72 @@
+.main{
+    height: 565px;
+    width: 1260px;
+    border:2px solid gold;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: gold; 
+    border-radius: 12px; 
+} 
+.box1{
+    height: 450px;
+    width: 300px;
+    border: 1.5px solid black;
+    background-color:white;
+    border-radius: 12px;
+}
+.img{
+     height: 200px;
+    width: 280px;
+    border: 2px solid white;
+    margin-top: 20px;
+    margin-left: 8px;
+    margin-right:10px;
+    border-radius: 9px;
+    background-image: url(assets/images/illustration-article.svg);
+}
+.batan{
+    height:17px ;
+    width:60px ;
+    border: 1.5px solid gold;
+    margin-top: 5px;
+    margin-left: 8px;
+    background-color: gold;
+    border-radius: 3px;
+}
+h3{
+    margin-top: 5px;
+    margin-left: 8px;
+}
+p{
+   margin-top: 5px;
+   margin-left: 8px;
+   color: dimgray;
+}
+.profile{
+    height: 40px;
+    width: 280px;
+
+    border: 1.5px solid white;
+    margin-top: 5px;
+    margin-left: 8px;
+    display:flex;
+    align-items: center; 
+}
+.pro{
+    height: 35px;
+    width:35px ;
+    border:1.5px solid black ;
+    border-radius:50%;
+    background-image:url(assets/images/image-avatar.webp) ;
+    background-size: cover;
+
+}
+#r{
+    height: 35px;
+    width:100px ;
+    padding-left: 5px;
+    border: 1.5px solid white;
+    margin-top: 15px;
+  
+} 
